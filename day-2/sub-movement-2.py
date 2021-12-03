@@ -1,5 +1,3 @@
-from collections import namedtuple
-
 with open("input/in1.txt", "r") as f:
     lines = f.readlines()
 
