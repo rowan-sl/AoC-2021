@@ -63,7 +63,7 @@ def generate_points_for_line(segment):
                     break
             case _:
                 print(directions)
-                raise ValueError("fuck")
+                raise ValueError("oopsie")
 
         x+=directions[0]
         y+=directions[1]
