@@ -1,5 +1,4 @@
-from dataclasses import dataclass
-from tqdm import tqdm, trange
+from tqdm import trange
 
 with open("input/real.txt") as f:
     txt = f.read()
